@@ -30,3 +30,5 @@ cars.push("Lexus");
 cars.reverse();/* dao nguoc phan tu*/
 cars.splice(2, 1);/*xoa 1 phan tu thu i arrya.splice(i,1)*/
 console.log(cars.valueOf());
+
+cars.push("Lamborgini");
