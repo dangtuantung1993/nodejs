@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7fdce7-ec76-4a12-a539-93d3a560ac54" name="Default Changelist" comment="">
+    <list default="true" id="6b7fdce7-ec76-4a12-a539-93d3a560ac54" name="Default Changelist" comment="update Readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -49,13 +49,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="4110" />
-          <entry key="md" value="332" />
+          <entry key="md" value="394" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="4110" />
-          <entry key="Markdown" value="332" />
+          <entry key="Markdown" value="394" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -68,8 +70,8 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="175">
-                <caret line="7" column="74" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="74" />
+              <first_editor relative-caret-position="200">
+                <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               </first_editor>
               <second_editor />
             </state>
@@ -86,6 +88,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dangtuantung1993 &lt;dangtuantung150993@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -225,19 +232,27 @@
       <workItem from="1541654528082" duration="625000" />
       <workItem from="1542374596369" duration="192000" />
       <workItem from="1542374904750" duration="707000" />
-      <workItem from="1542541734421" duration="2572000" />
+      <workItem from="1542541734421" duration="2893000" />
     </task>
+    <task id="LOCAL-00001" summary="update Readme">
+      <created>1542547327921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542547327922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27493000" />
+    <option name="totallyTimeSpent" value="27814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="636" y="0" width="759" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10714286" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1997226" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -261,6 +276,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.js">
@@ -343,8 +362,8 @@
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="175">
-            <caret line="7" column="74" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="74" />
+          <first_editor relative-caret-position="200">
+            <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
