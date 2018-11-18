@@ -1,0 +1,22 @@
+{
+  "name": "demojavscript",
+  "version": "1.0.0",
+  "description": "demo some features of JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangtuantung1993/basicjavascript.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "DANG TUAN TUNG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangtuantung1993/basicjavascript/issues"
+  },
+  "homepage": "https://github.com/dangtuantung1993/basicjavascript#readme"
+}
